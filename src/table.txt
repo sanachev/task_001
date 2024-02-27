@@ -1,0 +1,8 @@
+Можно наипростейшим образом 
+- сравнивать начало строки со стандартными римскими числами
+
+-      1   2   3   4   5   6   7   8   9
+x1     I  II  III  IV  V  VI  VII VIII IX
+x10    X  XX  XXX  XL  L  LX  LXX LXXX XC
+x100   C  CC  CCC  CD  D  DC  DCC DCCC CM
+x1000  M  MM  MMM
